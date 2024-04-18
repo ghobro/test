@@ -23,3 +23,7 @@ the vicissitudes narrowly missed,
 like an arete leading to a pinacle;
 but now having arrived I come to say one thing:
 For whom the bell tolls, it tolls for thee.
+
+# An update from UDAL Gabriel on 18 April
+
+Moments have passed. And in those moments, an infinitude of thoughts, mere specks of dust in an ocean of consciousness, have passed through the mind, like a great current of lightning through the cosmos. But is only the current one, most prescient in that storm, which leads me to say: I am using UDAL; I am testing the functionality of GitHub.
